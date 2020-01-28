@@ -1,0 +1,4 @@
+PyQt5==5.14.1
+PyQt5-sip==12.7.0
+PyQtWebEngine==5.14.0
+pywebview==3.2
